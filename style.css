@@ -12,9 +12,11 @@ div.card img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
+    margin: auto;
 }
 div.card {
     border: none;
+    text-align: center;
 }
 div#progress-img img {
     width: 50px;
