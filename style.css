@@ -23,7 +23,14 @@ div#progress-img img {
     height: 50px;
     border: none;
 }
-
+footer.page-footer {
+    background-color: lightslategrey;
+    margin-top: 2rem;
+    color: white;
+}
+footer.page-footer a {
+    color: white;
+}
 /* media-queries */
 
 /*  Large devices (desktops, 992px and up) */
