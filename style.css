@@ -31,6 +31,12 @@ footer.page-footer {
 footer.page-footer a {
     color: white;
 }
+div.col-md-3 li {
+    padding-top: .5rem;
+}
+p {
+    /* float: left; */
+}
 /* media-queries */
 
 /*  Large devices (desktops, 992px and up) */
