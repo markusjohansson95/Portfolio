@@ -18,6 +18,15 @@ div.card {
     border: none;
     text-align: center;
 }
+div.heading {
+    text-align: center;
+}
+div.heading a {
+    color: black;
+}
+div.row h4 u, h5{
+    padding: 0 .5rem 0 .5rem;
+}
 div#progress-img img {
     width: 50px;
     height: 50px;
@@ -31,11 +40,11 @@ footer.page-footer {
 footer.page-footer a {
     color: white;
 }
-div.col-md-3 li {
+div.col li {
     padding-top: .5rem;
 }
-p {
-    /* float: left; */
+div h5, ul li, div.col {
+    text-align: center;
 }
 /* media-queries */
 
