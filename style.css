@@ -43,8 +43,11 @@ footer.page-footer a {
 div.col li {
     padding-top: .5rem;
 }
-div h5, ul li, div.col {
+div h5, div.col, div.col-sm {
     text-align: center;
+}
+i.fab {
+    padding: 1rem .5rem 1rem 1rem;
 }
 /* media-queries */
 
